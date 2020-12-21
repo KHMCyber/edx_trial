@@ -1,0 +1,3 @@
+#startingup..
+
+print("Bismillah - Startingup")
